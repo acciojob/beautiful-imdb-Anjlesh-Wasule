@@ -1,2 +1,18 @@
+.moviePic{
+	opacity: 0.9;
+	height: 100%;
+	width: 160px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
 
-/* Your CSS Code here. */
+.movieDeatil{
+	position: relative;
+	top: -230px;
+	left: 180px;
+	width: 250px;
+	text-align: center;
+	font-size: larger;
+	font-family: arial;
+	border: 1px solid black;
+}
